@@ -14,7 +14,7 @@ def home():
             "/logo": {
                 "method": "GET",
                 "params": {"prompt": "text (required)"},
-                "example": "/logo?prompt=iron man 3d cartoon logo"
+                "example": "/logo?prompt=iron_man_3d_cartoon_logo"
             }
         }
     }
